@@ -1,4 +1,4 @@
-<div style="margin-bottom: 10px;"> <h1>Personalia</h1> <br>
+<div style="margin-bottom: 10px;"> <h1>Personalia</h1>
     Naam: Stef Deleurere <br>
     Adres: Korsele 42, 9667 Horebeke<br>
     Geboortedatum: 19/12/1995<br>
@@ -11,34 +11,34 @@
     Social Media: Facebook, Youtube (BEpiano)<br>
 </div>
 
-<div style="margin-bottom: 10px;"> <h1>Opleidingen</h1> <br>
+<div style="margin-bottom: 10px;"> <h1>Opleidingen</h1>
     Sportwetenschappen ASO te VILO<br>
 
-<h1>Werkervaringen</h1><br>
+<h1>Werkervaringen</h1>
     Posterdesign<br>
     Horeca: Café, Bistro<br>
     
-<h1>Cursussen</h1><br>
+<h1>Cursussen</h1>
     Diploma: Hoger redder<br>
     Ehbo<br>
 
-<h1>Nevenactiviteiten</h1><br>
+<h1>Nevenactiviteiten</h1>
     Youtube<br>
 </div>    
-Computerkennis
-    Adobe CC:   Illustrator - Gemiddeld tot goed
+<h1>Computerkennis</h1>
+  <h3>Adobe CC:</h3>Illustrator - Gemiddeld tot goed
                 Photoshop - Matig
                 Indesign - Matig
                 After effects - Gemiddeld
                 Premiere - Goed
     
-    Brackets - Goed
-    Fl studio - Goed
+    <h3>Brackets</h3> - Goed
+    <h3>Fl studio</h3> - Goed
     
-    Webtechnologie: Html, css
-    Programmeertalen: Javascript, Python
+    <h1>Webtechnologie</h1> Html, css
+    <h1>Programmeertalen</h1> Javascript, Python
 
-Taalkennis
+<h1>Taalkennis</h1>
     Nederlands - Zeer goed
     Engels - Goed
     Duits - Matig
