@@ -26,14 +26,14 @@
     Youtube<br>
 </div>    
 <h1>Computerkennis</h1>
-  <h3>Adobe CC:</h3>Illustrator - Gemiddeld tot goed
+  Adobe CC:Illustrator - Gemiddeld tot goed
                 Photoshop - Matig
                 Indesign - Matig
                 After effects - Gemiddeld
                 Premiere - Goed
     
-    <h3>Brackets</h3> - Goed
-    <h3>Fl studio</h3> - Goed
+    Brackets - Goed
+    Fl studio - Goed
     
     <h1>Webtechnologie</h1> Html, css
     <h1>Programmeertalen</h1> Javascript, Python
