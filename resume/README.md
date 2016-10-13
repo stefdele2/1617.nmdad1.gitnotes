@@ -1,14 +1,15 @@
-Personalia
-    Naam: Stef Deleurere
-    Adres: Korsele 42, 9667 Horebeke
-    Geboortedatum: 19/12/1995
-    Geslacht: Man
-    Nationaliteit: Belg
-    Burgelijke Staat: Ongehuwd
-    Telefoonnummer: 0477 95 97 94
-    Email: stefdele2@student.arteveldehs.be
-    Website: Nvt.
-    Social Media: Facebook, Youtube (BEpiano)
+<div style="margin-bottom: 10px;"> <h1>Personalia</h1>
+    Naam: Stef Deleurere <br>
+    Adres: Korsele 42, 9667 Horebeke<br>
+    Geboortedatum: 19/12/1995<br>
+    Geslacht: Man<br>
+    Nationaliteit: Belg<br>
+    Burgelijke Staat: Ongehuwd<br>
+    Telefoonnummer: 0477 95 97 94<br>
+    Email: stefdele2@student.arteveldehs.be<br>
+    Website: Nvt.<br>
+    Social Media: Facebook, Youtube (BEpiano)<br>
+</div>
 
 Opleidingen
     Sportwetenschappen ASO te VILO
