@@ -43,4 +43,4 @@ Taalkennis
     Duits - Matig
     Frans - Slecht
 
-![alt tag](https://www.facebook.com/photo.php?fbid=1219916971352859&set=t.100000037029243&type=3&theater)
+![alt tag](https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/13781749_1219916971352859_551582802934706206_n.jpg?oh=dc48fe9e3696999a719836312517407f&oe=5899382B)
